@@ -30,3 +30,4 @@ A README file is a good place to put information about your project. It's common
 ## Who's here?
 
 - Tyler Thompson 🤘
+- Tyler "Second Tyler" Thompson 🫠
