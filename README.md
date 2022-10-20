@@ -17,6 +17,16 @@ A README file is a good place to put information about your project. It's common
 7. Open a pull request to merge your changes into the main repository
 8. Celebrate!
 
+## Commands
+
+- `git clone <url>`: clone a repository from a URL
+- `git branch <name>`: create a new branch
+- `git checkout <name>`: switch to a branch
+- `git add <file>`: add a file to the staging area
+- `git commit -m "<message>"`: commit changes with a message
+- `git push`: push changes to a remote repository
+- `git pull`: pull changes from a remote repository
+
 ## Who's here?
 
 - Tyler Thompson 🤘
